@@ -1,0 +1,8 @@
+{
+"hiveDatabaseName" : "dlz_msc_cognitive_scale",
+"hiveInsightsTableName":"dlz_csinsights_staging",
+"inputDatasetFileName":"/home/ubuntu/input_dataset.txt",
+"mlModelOutputPath" : "/home/ubuntu/test_inquire_20180409_predictions.json",
+"allow_mongo_insertion":false,
+"max_batch_size":100
+}
